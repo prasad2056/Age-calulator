@@ -8,11 +8,15 @@ A simple tool to calculate age based on a given birthdate. This application prov
 Features:
 
 1.Input birthdate in various formats
+
 2.Accurate age calculation
+
 3.User-friendly interface
 
 Technologies Used:
 
 1.HTML for structure
+
 2.CSS for styling
+
 3.JavaScript for functionality
